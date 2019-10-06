@@ -1,0 +1,12 @@
+.listStyle {
+    height: 50px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid grey;
+}
+
+.listStyle:hover {
+    background-color: lightgray;
+}

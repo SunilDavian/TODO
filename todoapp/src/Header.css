@@ -1,0 +1,6 @@
+.header-style {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 3px 7px 2px grey;
+    align-items: center;
+}
