@@ -1,0 +1,3 @@
+module.exports = {
+    FETCH_BUCKET_SUCCESS: 'FETCH_BUCKET_SUCCESS'
+}
